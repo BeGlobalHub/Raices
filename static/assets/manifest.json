@@ -1,6 +1,6 @@
 {
-  "name": "BeGlobal - Raices del Pueblo BETA",
-  "short_name": "BeGlobal - Raices del Pueblo BETA",
+  "name": "BeGlobal - Raices del Pueblo",
+  "short_name": "BeGlobal - Raices del Pueblo",
   "start_url": "../../index.html?standalone",
   "display": "standalone",
   "background_color": "#000000",

@@ -49,6 +49,8 @@ filesToCache = [
 "./data/3D/classroom_2/uhd/textures/Wall_baseColor.png",
 "./data/3D/classroom_2/uhd/textures/Wooden_Column_baseColor.png",
 "./data/3D/classroom_2.gltf",
+"./data/3D/colorful_festival_bunting_banner/colorful_festival_bunting_banner.glb_bin_data.bin",
+"./data/3D/colorful_festival_bunting_banner.glb",
 "./data/3D/don_carlos_meshy/don_carlos_meshy.glb_bin_data.bin",
 "./data/3D/don_carlos_meshy/uhd/don_carlos_meshy.glbimg_0.jpeg",
 "./data/3D/don_carlos_meshy/uhd/don_carlos_meshy.glbimg_1.jpeg",
